@@ -1,15 +1,11 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{1C2E336E-4B61-1E98-21A9-47A6F3B5B3F5}",
+	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "PhysXVehicles",
-			"Enabled": true
-		},
-		{
-			"Name": "RawInput",
 			"Enabled": true
 		}
 	]
